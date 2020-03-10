@@ -12,7 +12,7 @@
 $ docker-compose up -d
   ```
   
-4.`http://localhpst:8080`を開いてphpinfoが表示されていれば成功です！
+4.`http://localhost:8080`を開いてphpinfoが表示されていれば成功です！
 
 止めたい時は以下のコマンドを入力してください。
 ```
